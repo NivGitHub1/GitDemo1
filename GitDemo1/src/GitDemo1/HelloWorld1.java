@@ -11,7 +11,13 @@ public class HelloWorld1 {
 		System.out.println("First Line..");
 		System.out.println("Second Line..");
 		System.out.println("Third Line..");
-		System.out.println("Total: 3 lines of code");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("-----------------");
+		System.out.println("Total: 3 lines of code plus lot of blank lines.");
 		System.out.println("More TO DO...");
 		System.out.println(".");
 		System.out.println("Last line - END!");

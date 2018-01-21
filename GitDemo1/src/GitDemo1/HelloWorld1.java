@@ -17,6 +17,15 @@ public class HelloWorld1 {
 		System.out.println("Total: 3 lines of code plus lot of blank lines.");
 		System.out.println("More TO DO...");
 		System.out.println(".");
+
+		System.out.println("=============");
+		System.out.println("... for loop ...");
+		
+		for (int j = 0; i<10; i++){
+			System.out.println("Line no. "+i);
+			
+		}
+
 		System.out.println("Last line - END!");
 
 	}

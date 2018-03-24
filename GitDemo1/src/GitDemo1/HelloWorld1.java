@@ -1,4 +1,4 @@
-
+1
 package GitDemo1;
 
 public class HelloWorld1 {
@@ -14,7 +14,8 @@ public class HelloWorld1 {
 		System.out.println("Third Line..");
 		System.out.println("-----------------");
 		System.out.println("-----------------");
-		System.out.println("-----------------");
+		System.out.println("-----------------1");
+		System.out.println("-----------------2");
 
 		System.out.println("Total: 3 lines of code plus lot of blank lines.");
 		System.out.println("More TO DO...");

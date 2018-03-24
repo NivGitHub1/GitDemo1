@@ -1,8 +1,13 @@
 package GitDemo1;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class HelloWorld1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		String h = "Hello";
 		String w = "World";
 		int i = 1;
@@ -25,9 +30,8 @@ public class HelloWorld1 {
 			System.out.println("Line no. "+i);
 			
 		}
-
 		System.out.println("Last line - END!");
-
+			
 	}
 
 }

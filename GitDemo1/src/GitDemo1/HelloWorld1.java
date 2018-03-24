@@ -1,4 +1,3 @@
-1
 package GitDemo1;
 
 import java.io.BufferedWriter;
@@ -21,6 +20,7 @@ public class HelloWorld1 {
 		System.out.println("-----------------");
 		System.out.println("-----------------1");
 		System.out.println("-----------------2");
+		System.out.println("First change after clone");
 
 		System.out.println("Total: 3 lines of code plus lot of blank lines.");
 		System.out.println("More TO DO...");
